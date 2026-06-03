@@ -2,54 +2,107 @@
 
 Projeto desenvolvido como atividade prática do curso **HTML5 e CSS3**, ministrado pelo professor **Gustavo Guanabara** na plataforma **Curso em Vídeo**.
 
-O **Cordel Moderno** é um mini site com layout inspirado na literatura de cordel, com rolagem de tela, imagem de fundo fixa e efeitos de estilização utilizando apenas **HTML5** e **CSS3**. O objetivo foi reforçar o uso de marcação semântica, estilização em camadas e aplicação de boas práticas na construção de páginas web.
+O Cordel Moderno é um mini site com layout inspirado na literatura de cordel, criado com foco na combinação entre tipografia, estética visual e efeitos de fundo utilizando apenas HTML5 e CSS3.
 
 ---
 
 ## 📷 Demonstração
-URL -> <a href="https://maicondante.github.io/Projeto_Cordel/">Projeto Cordel Moderno</a>
+
+**URL** -> <a href="https://maicondante.github.io/Projeto_Cordel/">Projeto Cordel Moderno</a>
+
+---
 
 ## 📚 Sobre o Curso
 
-- **Curso:** HTML5 e CSS3 – Módulos iniciais
-- **Plataforma:** <a href="https://www.cursoemvideo.com/">[Curso em Vídeo]</a>
-- **Professor:** Gustavo Guanabara
+* **Curso:** HTML5 e CSS3 – Módulos iniciais
+* **Plataforma:** Curso em Vídeo
+* **Professor:** Gustavo Guanabara
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **HTML5**: Estruturação semântica do conteúdo da página.
-- **CSS3**: Estilização com foco em:
-  - Parallax (imagem de fundo fixa)
-  - Tipografia personalizada com fontes do Google Fonts
-  - Organização de layout com classes e seletores
-  - Cores, sombras e efeitos visuais
+* HTML5 — Estruturação semântica do conteúdo
+* CSS3 — Estilização visual e efeitos
+
+---
+
+## 🎨 Recursos Utilizados
+
+O projeto explora recursos visuais e estilísticos como:
+
+* 🌄 Imagem de fundo fixa (efeito visual tipo parallax)
+* ✍️ Tipografia personalizada com Google Fonts
+* 🎨 Paleta de cores harmoniosa e temática
+* 🧱 Organização do layout com classes e seletores CSS
+* 🌫️ Sombras e efeitos de profundidade
+* 📱 Estrutura adaptada para leitura contínua (scroll)
 
 ---
 
 ## 🎯 Objetivos do Projeto
 
-- Aplicar conceitos de HTML semântico (`header`, `main`, `section`, `footer`, etc.)
-- Trabalhar com plano de fundo fixo e efeitos visuais com CSS
-- Utilizar fontes externas e paleta de cores personalizada
-- Simular um site de apresentação de poema/literatura de cordel
-- Consolidar o conhecimento em estruturação e estilo de páginas web
+Este projeto teve como objetivo:
+
+* Aplicar conceitos de HTML semântico (`header`, `main`, `section`, `footer`)
+* Explorar efeitos visuais com CSS puro
+* Trabalhar com tipografia e fontes externas
+* Criar uma experiência visual inspirada na literatura de cordel
+* Reforçar boas práticas de organização de código
+* Desenvolver páginas com foco estético e de leitura
 
 ---
 
-## 📌 Status do Projeto
-✅ Concluído – Projeto finalizado como parte prática do curso. Pode servir como base para novos estudos e projetos maiores.
+## 📖 Estrutura do Site
 
-## 👨‍🏫 Sobre o Curso
-Curso: HTML5 e CSS3
+O site foi construído como uma página de leitura contínua, contendo:
 
-Professor: Gustavo Guanabara
+* 📌 Introdução temática
+* 📜 Seções de texto estilo cordel
+* 🌄 Fundo fixo com efeito visual
+* ✨ Destaques tipográficos
+* 📱 Layout simples e focado na leitura
 
-Plataforma: Curso em Vídeo
+---
+
+## 🚀 Como Executar o Projeto
+
+1. Clone este repositório:
+
+```bash id="r8k3qx"
+git clone https://github.com/MaiconDante/Projeto_Cordel.git
+```
+
+2. Acesse a pasta do projeto.
+
+3. Abra o arquivo `index.html` em seu navegador.
+
+---
+
+## 🛠️ Status do Projeto
+
+✅ Concluído
+
+Projeto finalizado como exercício prático do curso.
+
+---
+
+## 📚 Curso
+
+**Curso:** HTML5 e CSS3 – Módulos iniciais
+**Plataforma:** Curso em Vídeo
+**Professor:** Gustavo Guanabara
+
+---
 
 ## 👨‍💻 Autor
-Desenvolvido por MaiconDante como parte do curso HTML5 e CSS3 – Curso em Vídeo.
+
+**Maicon Dante**
+
+Desenvolvido como parte do curso **HTML5 e CSS3 – Curso em Vídeo**, com foco em aprendizado prático, tipografia e efeitos visuais em CSS.
+
+---
 
 ## 📄 Licença
-Este projeto está licenciado sob a licença MIT. Para mais informações, consulte o arquivo LICENSE.
+
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
